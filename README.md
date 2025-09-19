@@ -11,3 +11,5 @@
     var elt = document.getElementById('calculator');
     var calculator = Desmos.GraphingCalculator(elt);
 </script>
+
+<iframe src="https://www.desmos.com/calculator/dxzt01ro9j?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
