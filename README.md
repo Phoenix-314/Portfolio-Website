@@ -1,4 +1,4 @@
-# Portfolio-Website
+# Eli Carder - Personal Projects with Desmos
 
 <p>
     Attached are a couple of my desmos graphs. You can see how any individual graph works or edit them by clicking on the button ("edit graph on desmos") in the bottom right corner of each graph. The attached dates are the last time the graphs were edited. As of currently, none of my 3D graphs have been added to this website.
